@@ -6,3 +6,5 @@ only freezes object itself but not its subgraph
 
 To see that behavior you can run iosTest.kt and then run iOS app.
 As you can see it fails, because of the code inside ViewModel.swift
+
+https://youtrack.jetbrains.com/issue/KT-44108
